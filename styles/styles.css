@@ -44,3 +44,9 @@ a:hover {
 p {
 	font-size: 17px;
 }
+
+.word {
+	cursor: pointer;
+	color: blue;
+	text-decoration: underline;
+}
