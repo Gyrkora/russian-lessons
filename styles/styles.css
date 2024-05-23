@@ -47,6 +47,11 @@ p {
 
 .word {
 	cursor: pointer;
-	color: blue;
+	color: rgb(73, 8, 8);
 	text-decoration: underline;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none !important;
 }
